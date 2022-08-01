@@ -1,5 +1,3 @@
-import Bits
-
 /// Converts `[String: URLEncodedFormData]` structs to `Data`.
 final class URLEncodedFormSerializer {
     /// Default form url encoded serializer.
