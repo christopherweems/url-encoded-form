@@ -1,3 +1,5 @@
+import Foundation
+
 /// Converts `[String: URLEncodedFormData]` structs to `Data`.
 final class URLEncodedFormSerializer {
     /// Default form url encoded serializer.

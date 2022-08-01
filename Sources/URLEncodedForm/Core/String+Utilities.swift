@@ -1,3 +1,5 @@
+import Foundation
+
 extension String {
     /// Converts the string to a `Bool` or returns `nil`.
     public var bool: Bool? {

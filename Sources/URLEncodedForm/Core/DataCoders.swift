@@ -1,3 +1,5 @@
+import Foundation
+
 /// A type capable of decoding `Decodable` types from `Data`.
 ///
 ///     print(data) /// Data

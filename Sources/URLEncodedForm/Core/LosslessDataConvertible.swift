@@ -1,3 +1,5 @@
+import Foundation
+
 /// A type that can be represented as `Data` in a lossless, unambiguous way.
 public protocol LosslessDataConvertible {
     /// Losslessly converts this type to `Data`.

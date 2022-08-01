@@ -1,3 +1,5 @@
+import Foundation
+
 /// Represents application/x-www-form-urlencoded encoded data.
 enum URLEncodedFormData: NestedData, ExpressibleByArrayLiteral, ExpressibleByStringLiteral, ExpressibleByDictionaryLiteral, Equatable {
     /// See `NestedData`.

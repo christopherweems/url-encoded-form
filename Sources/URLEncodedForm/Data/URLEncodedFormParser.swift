@@ -1,3 +1,5 @@
+import Foundation
+
 /// Converts `Data` to `[String: URLEncodedFormData]`.
 final class URLEncodedFormParser {
     /// Default form url encoded parser.
